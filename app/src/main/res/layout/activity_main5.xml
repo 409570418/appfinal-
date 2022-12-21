@@ -41,6 +41,17 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <Button
+        android:id="@+id/btn_back4"
+        android:layout_width="63dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="304dp"
+        android:layout_marginBottom="60dp"
+        android:text="更多"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <TextView
         android:id="@+id/tv_showartical"
         android:layout_width="338dp"
